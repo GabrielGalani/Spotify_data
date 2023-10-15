@@ -11,10 +11,13 @@ Este projeto foi arquitetado com o uso do Apache Airflow. O Airflow é uma plata
 ## Tecnologias Utilizadas
 O projeto utiliza as seguintes tecnologias e ferramentas:
 
-Python: A linguagem de programação principal para desenvolver o projeto.
-PySpark: Uma biblioteca Python para processamento de dados distribuídos, que é amplamente utilizada para análise de grandes conjuntos de dados.
-Apache Spark: Uma plataforma de processamento de dados distribuídos que é utilizada em conjunto com o PySpark.
-Apache Airflow: A plataforma de orquestração de fluxo de trabalho usada para automatizar tarefas de processamento de dados.
+- Python: A linguagem de programação principal para desenvolver o projeto.
+
+- PySpark: Uma biblioteca Python para processamento de dados distribuídos, que é amplamente utilizada para análise de grandes conjuntos de dados.
+
+- Apache Spark: Uma plataforma de processamento de dados distribuídos que é utilizada em conjunto com o PySpark.
+
+- Apache Airflow: A plataforma de orquestração de fluxo de trabalho usada para automatizar tarefas de processamento de dados.
 
 ## Como Utilizar o Projeto:
 1. Clone o repositório do GitHub em sua máquina local.
@@ -36,8 +39,9 @@ Acesse o painel do Airflow em http://localhost:8080/ para monitorar e gerenciar 
 ## Conjunto de Dados
 O conjunto de dados das músicas está disponível nos seguintes locais:
 
-[1. Kaggle - Dataset](https://www.kaggle.com/datasets/gabrielgalani/spotify-lancamentos-2022-2023)
+[1. Kaggle - Dataset](https://www.kaggle.com/datasets/gabrielgalani/spotify-lancamentos-2022-2023) /
 [2. Github - Dataset](https://github.com/GabrielGalani/Spotify_data/tree/main/Datalake)
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar pull requests para melhorar este projeto.
+  
